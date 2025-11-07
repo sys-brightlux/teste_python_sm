@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste Front-End - Lista de Tarefas</title>
+    <style>
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            margin: 20px; 
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1 {
+            color: #111;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+            max-width: 600px;
+        }
+        li {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 10px 15px;
+            margin-bottom: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        /* Estilos aplicados via JS */
+        li.concluida { 
+            text-decoration: line-through; 
+            color: #888; 
+            background-color: #f9f9f9;
+        }
+        li.pendente { 
+            font-weight: bold; 
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Minhas Tarefas</h1>
+
+    <!-- 
+      TODO: O JavaScript (script.js) deve preencher esta lista 
+      com os itens da 'listaTarefas'.
+    -->
+    <ul id="lista-tarefas">
+        <!-- 
+        Exemplo de como os itens devem ficar (serão gerados via JS):
+        
+        <li class="concluida">[concluida] Desenvolver tela de login</li>
+        <li class="pendente">[pendente] Testar API de usuários</li> 
+        ...
+        -->
+    </ul>
+
+    <!-- Carrega o script -->
+    <script src="script.js"></script>
+</body>
+</html>
