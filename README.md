@@ -39,6 +39,6 @@ Edite o arquivo script.js para que ele popule a lista de tarefas no HTML.
 
 ## **Como Entregar**
 
-Complete as tarefas nos arquivos indicados. Após finalizar, nos avise para que possamos revisar.
+Complete as tarefas nos arquivos indicados. Após finalizar, nos avise para que possamos revisar. O tempo para realização do teste é de 1 hora.
 
 Boa sorte\!
