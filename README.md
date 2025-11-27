@@ -7,6 +7,19 @@ Este teste é dividido em duas partes:
 1. **Lógica em Python** (arquivo: teste\_python.py)  
 2. **Front-End em HTML/JavaScript** (arquivos: index.html e script.js)
 
+## **📜 Regras e Diretrizes para o Teste (Obrigatório)**
+
+Para garantir a igualdade e a validade da avaliação, o teste deve ser realizado seguindo as seguintes regras **restritivas**:
+
+* **Duração:** O tempo máximo de realização é de **1 hora** a partir do momento em que o teste for iniciado.  
+* **Recursos Externos:** O uso de **qualquer tipo de pesquisa externa** é estritamente proibido. Isso inclui, mas não se limita a:  
+  * Navegadores de internet (Google, Stack Overflow, MDN, etc.).  
+  * Ferramentas de Inteligência Artificial (IA), como ChatGPT, Gemini, Copilot, etc.  
+  * Vídeos (YouTube) ou quaisquer outros tutoriais online.  
+* **Dispositivos Pessoais:** O uso de **celulares** ou outros dispositivos de comunicação é proibido durante a realização.  
+* **Fones de Ouvido:** O uso de **fones de ouvido** ou qualquer dispositivo de áudio não é permitido.  
+* **Material de Consulta:** A única fonte de informação permitida são os **arquivos fornecidos** no próprio teste.
+
 ## **Contexto**
 
 Estamos trabalhando em um sistema de gerenciamento de projetos. A base do sistema são Usuarios e suas Tarefas. Os dados de exemplo já estão fornecidos nos arquivos de script.
