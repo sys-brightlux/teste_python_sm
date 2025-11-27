@@ -19,6 +19,9 @@ Para garantir a igualdade e a validade da avaliação, o teste deve ser realizad
 * **Dispositivos Pessoais:** O uso de **celulares** ou outros dispositivos de comunicação é proibido durante a realização.  
 * **Fones de Ouvido:** O uso de **fones de ouvido** ou qualquer dispositivo de áudio não é permitido.  
 * **Material de Consulta:** A única fonte de informação permitida são os **arquivos fornecidos** no próprio teste.
+* Durante a realização do teste, a **tela do computador**, será **gravada**. 
+* Ao **finalizar** o teste, comunique ao Setor de RH, via **whatsapp**.
+* Se necessário o uso da **calculadora** utilize **apenas** a do computador.
 
 ## **Contexto**
 
